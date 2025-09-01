@@ -1,4 +1,4 @@
-# open_ecg_jornals
+# open_ecg_journal
 
 
 
