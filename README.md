@@ -1,5 +1,7 @@
 # open_ecg_journal
 
+# 关于心电论文投稿
+
 
 
 ## [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)
@@ -55,3 +57,25 @@
 - 中科院分区：大类学科-综合性期刊1区。
 
 - 推荐理由：如果你研究的AI方法不仅在技术上领先，而且解决了ECG分割中的重大瓶颈问题，具有明确的、颠覆性的临床转化潜力（例如，极大提升了罕见心律失常的检测率，并进行了初步临床验证），可以考虑投稿。它对工作的新颖性、完整性和影响力要求极高。
+<<<<<<< HEAD
+=======
+
+
+# 关于脑电睡眠分期论文投稿
+
+
+## [IEEE Transactions on Neural Systems and Rehabilitation Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333) 2 区
+
+- 影响因子: 5.2
+- 中科院分区：大类学科-工程技术1区，小类学科-工程：生物医学1区，神经科学2区。
+- 推荐理由：与JNE类似，非常强调方法在康复和临床系统中的应用潜力。如果您的睡眠分期工作与健康监测、神经疾病诊断（如失眠、睡眠呼吸暂停）紧密相关，并讨论了临床转化价值，TNSRE是非常匹配的目标。
+
+
+## [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10) 2 区
+
+- 影响因子: 4.5
+
+- 中科院分区：大类学科-工程技术1区，小类学科-工程：生物医学1区。
+
+- 推荐理由：生物医学工程领域的综合性顶刊，声誉极高。发表范围广泛，包括生物信号处理、生物医学成像、计算生物学等。对工作的数学严谨性和工程完整性要求很高。优秀的睡眠分期AI研究完全在其收稿范围内。
+>>>>>>> add
